@@ -1,4 +1,4 @@
-# Nuvens de Sucesso: Como a Petrobras Voou Alto na AWS
+# Nuvens de Sucesso: Como uma empresa do ramo petrolífero Voou Alto na AWS
 
 Você já imaginou mover montanhas de dados para a nuvem? Bem, foi exatamente isso que fizemos na Petrobras! Vamos dar uma olhada em como essa jornada nos levou ao topo do mundo da tecnologia.
 
